@@ -1,0 +1,2 @@
+# FlaiApi
+Test dotnet core
